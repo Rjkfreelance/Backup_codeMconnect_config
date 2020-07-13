@@ -5,4 +5,5 @@ Config setup by Desktop app c#
  เพื่อเก็บ Log file  
  Run Program Mconsetconfigv1.exe เมื่อบอร์ดทำงาน  File Log ที่ save จะอยู่ใน Folder C:\LogMconfig 
  ![img](https://iotfmx.com/imgtest/Logtarget_130720.png)
+ ![img](https://iotfmx.com/imgtest/Mconf.png)
  
